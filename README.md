@@ -1,6 +1,6 @@
 # DEPRECATED
 > [!WARNING]  
-> This repository is no longer supported as native Gnosis Chain support has been introduced in the upstream. Please use the [official documentation](https://docs.gnosischain.com/node/manual/beacon/nimbus).
+> This repository is no longer supported and has been replaced by [gnosischain/gnosis-nimbus-eth2](https://github.com/gnosischain/gnosis-nimbus-eth2). Please use the [official documentation](https://docs.gnosischain.com/node/manual/beacon/nimbus).
 
 
 ```shell
